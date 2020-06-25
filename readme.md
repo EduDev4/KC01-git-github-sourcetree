@@ -31,10 +31,15 @@ No, styled absorbió a master sin conflictos
 Revisé bien qué había en cada rama:
   
 `git checkout master`
+
 `git log --graph --pretty=oneline`
+
 `git checkout title`
+
 `git log --graph --pretty=oneline`
+
 `git checkout htmlify`
+
 `git log --graph --pretty=oneline`
   
 Junté todo:
